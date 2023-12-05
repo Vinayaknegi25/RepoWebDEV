@@ -1,42 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T08:23:34.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="YACB4rslEphjX6aVKB22" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T08:31:08.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="uy0G7EFQBJS1dC-8Y6Dq" version="22.1.5" type="github">
   <diagram name="Page-1" id="vM5Z-qLaaEuf9uWKbegP">
-    <mxGraphModel dx="909" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ULonhmn2VYNKH8NXwks7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="80" as="sourcePoint" />
-            <mxPoint x="220" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-1" value="Input User Preference(Location, price rage etc.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-2" value="Retrieve User history and preference" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-7" value="Retrieve hotel data(Location, price etc.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-8" value="Calculate &amp;nbsp;similarity score between user preference and hotel features" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-9" value="Filter hotels based on similarity threshold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-11" value="Sort hotels by Relevance and similarity score&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="524.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-12" value="Display recommendations to the user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-13" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="710" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ULonhmn2VYNKH8NXwks7-14" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ULonhmn2VYNKH8NXwks7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="80" as="sourcePoint" />
