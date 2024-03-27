@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T17:15:30.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="FQmUeqyxCLL10zH0a8Kk" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T17:16:37.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="krgc9UrQo_i1b78sjthD" version="24.2.0" type="github">
   <diagram name="Page-1" id="Xr403WYXMtWlzFswWIsv">
     <mxGraphModel dx="1539" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,16 +107,25 @@
           <mxGeometry x="140" y="3190" width="580" height="810" as="geometry" />
         </mxCell>
         <mxCell id="hGo4nkmvKoXyk2I0VHMq-35" value="Enter your Destination and details about your travel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3420" width="330" height="60" as="geometry" />
+          <mxGeometry x="269" y="3430" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hGo4nkmvKoXyk2I0VHMq-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580" y="3220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hGo4nkmvKoXyk2I0VHMq-37" value="HOLA ViNAYAK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hGo4nkmvKoXyk2I0VHMq-37" value="HOLA User1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="3230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hGo4nkmvKoXyk2I0VHMq-38" value="Voila" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="3520" width="120" height="60" as="geometry" />
+          <mxGeometry x="374" y="3570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGo4nkmvKoXyk2I0VHMq-40" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="3230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGo4nkmvKoXyk2I0VHMq-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="hGo4nkmvKoXyk2I0VHMq-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="4090" as="sourcePoint" />
+            <mxPoint x="230" y="3800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
